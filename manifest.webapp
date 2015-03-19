@@ -1,0 +1,15 @@
+{
+  "name": "threeJS",
+  "description": "threeJS demo",
+  "type": "web",
+  "launch_path": "/index.html",
+  "locales": {
+    "en-US": {
+      "name": "Effecter",
+      "description": "Web app three.js demo"
+    }
+  },
+  "icons": {
+    "128": "icon128x128.png"
+  }
+}
