@@ -5,7 +5,7 @@
   "launch_path": "/index.html",
   "locales": {
     "en-US": {
-      "name": "Effecter",
+      "name": "threejs_demo",
       "description": "Web app three.js demo"
     }
   },
